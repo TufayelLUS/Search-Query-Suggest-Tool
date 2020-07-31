@@ -8,4 +8,5 @@ When you type a keyword in search bar, it will produce relevant search terms for
 <code>pip install requests</code><br>
 3. double click to execute or you can run it in command prompt by going to the script directory and then typing<br>
 <code>python3 suggest-me.py</code><br>
-and rest of the instruction follows on your screen! Cheers!
+and rest of the instruction follows on your screen! Cheers!<br>
+suggest-me-2.py file looks for location only and returns location based search result.
